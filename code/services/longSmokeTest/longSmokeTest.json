@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,long",
+    "logging_enabled": "false",
+    "name": "longSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "longSmokeTest.js"
+}
